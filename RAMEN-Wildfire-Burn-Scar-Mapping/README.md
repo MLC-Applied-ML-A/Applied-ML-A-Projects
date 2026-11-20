@@ -1,6 +1,6 @@
 # Wildfire Burn-Scar Mapping with RAMEN
 
-Applied ML A, CS197 study group. Active members: **Daniel Odeh** and **Nwajiunor Edgar-Odurombi** (both worked on every stage together).
+Applied ML A, CS197 study group. Active members: **Daniel Odeh** and **Nwajiunor Edgar-Odurombi** (both worked on the project together).
 
 We fine-tuned RAMEN, a pretrained Earth observation foundation model (ViT-Base encoder), with a UPerNet decoder to label every pixel of a satellite image as **Not burned** or **Burn scar**. This maps land that has already burned. It does not detect live flames or predict future fires.
 
